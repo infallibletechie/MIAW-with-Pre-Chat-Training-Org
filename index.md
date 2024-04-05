@@ -20,7 +20,7 @@
 					},
 					"_subject": {
 						"value": "Testing",
-						"isEditableByEndUser": false
+						"isEditableByEndUser": true
 					}
 				});
 			});
